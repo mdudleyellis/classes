@@ -1,0 +1,47 @@
+<html>
+<body>
+
+<table width="600"
+cellpadding="10"
+cellspacing="10">
+<tr>
+<th></th>
+<th scope="col">Monday</th>
+<th scope="col">Tuesday</th>
+<th scope="col">Wednesday</th>
+<th scope="col">Thursday</th>
+<th scope="col">Friday</th> 
+</tr>
+
+<th scope="row">11am</th>
+<td></td>
+<td rowspan="2">12094 </br> Data network and com </br> Argawal</td>
+ <td></td>
+ <td rowspan="2">12094 </br> Data network and com </br> Argawal</td>
+ </tr> 
+ <tr>
+ <th scope="row">12am</th></tr>
+ 
+ <tr><th scope="row">1pm</th>
+ 
+<td rowspan="2">14005 <br/> Consulting <br/> Buskey </td>
+ <td></td>
+ <td rowspan="2">14005 <br/> Consulting <br/> Buskey </td>
+ 
+ </tr>
+ 
+ <tr><th scope="row">2pm</th></tr>
+ 
+ <tr><th scope="row">3pm</th></tr>
+ 
+ <tr><th scope="row">4pm</th>
+  <td rowspan="2">16537<br/> Web Authoring <br/>  Henley</td>
+  <td rowspan="2">16379<br/> System analysis and Design <br/> Owunwanne</td>
+   <td rowspan="2">16537<br/> Web Authoring <br/>  Henley</td>
+   <td rowspan="2">16379<br/> System analysis and Design <br/> Owunwanne</td>
+  </tr>
+ 
+  <tr><th scope="row">5pm</th></tr>
+  <table/>
+  <html/>
+<body/>
